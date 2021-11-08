@@ -1,0 +1,3 @@
+[submodule "NativeDB/RDR2"]
+	path = NativeDB/RDR2
+	url = https://git.aoe.top/NativeDB/RDR2.git
